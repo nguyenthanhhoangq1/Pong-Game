@@ -279,7 +279,7 @@ public class PongPanel extends JPanel implements ActionListener, KeyListener, Mo
 			
 			
 			Image imgbpong = new ImageIcon(
-					"background/backgm.jpg")
+					"background/backgp.jpg")
 					.getImage();
 			// Draw game title and start message
 			g.setFont(new Font(Font.DIALOG, Font.BOLD, 36));
